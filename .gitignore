@@ -1,0 +1,12 @@
+dataset/
+__pycache__/
+.DS_Store
+
+heatmap.jpg
+heatmap_color.jpg
+gradcam_overlay.jpg
+
+models/pneumonia_model.keras
+models/pneumonia_model_v2.keras
+
+venv/
