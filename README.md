@@ -1,5 +1,7 @@
 # 🫁 Pneumonia Detection System
 
+![Application Screenshot](images/app_screenshot.png)
+
 A Deep Learning based web application for detecting pneumonia from Chest X-ray images using MobileNetV2, FastAPI, and Streamlit.
 
 ## 🚀 Live Application
